@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookmyshow-houm/static/css/main.a881e47a.chunk.css",
+    "main.js": "/bookmyshow-houm/static/js/main.f5fbe468.chunk.js",
+    "main.js.map": "/bookmyshow-houm/static/js/main.f5fbe468.chunk.js.map",
+    "runtime~main.js": "/bookmyshow-houm/static/js/runtime~main.90207599.js",
+    "runtime~main.js.map": "/bookmyshow-houm/static/js/runtime~main.90207599.js.map",
+    "static/js/2.5197114e.chunk.js": "/bookmyshow-houm/static/js/2.5197114e.chunk.js",
+    "static/js/2.5197114e.chunk.js.map": "/bookmyshow-houm/static/js/2.5197114e.chunk.js.map",
+    "index.html": "/bookmyshow-houm/index.html",
+    "precache-manifest.ec44f292ab17d956661f2982684dcba0.js": "/bookmyshow-houm/precache-manifest.ec44f292ab17d956661f2982684dcba0.js",
+    "service-worker.js": "/bookmyshow-houm/service-worker.js",
+    "static/css/main.a881e47a.chunk.css.map": "/bookmyshow-houm/static/css/main.a881e47a.chunk.css.map"
+  }
+}
