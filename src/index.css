@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.select{
+  background: green;
+  color:#fff
+}
+
+.available:hover{
+  cursor: pointer;
+  background: green;
+  color:#fff
+}
+
+.booked{
+  background:#d8d8d8;
+  color:#fff
+}
